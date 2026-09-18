@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**nick1-creator/nick1-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior System Administration & Cybersecurity enthusiast focused on hands-on learning, infrastructure, networking, Linux and defensive security.
+## 🛠️ What I'm Working On
 
-Here are some ideas to get you started:
+- Building and maintaining a secure self-hosted HomeLab
+- Learning System Administration, Networking and Cybersecurity
+- Working with Linux, Docker, Windows Server and Active Directory
+- Building a Home SOC with Wazuh, endpoint monitoring and custom detections
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏠 [HomeLab Infrastructure](https://github.com/nick1-creator/HomeLab-Infrastructure)
+Secure self-hosted infrastructure with Docker, monitoring, encrypted backups, recovery validation and defense-in-depth security.
+
+### 🛡️ [HomeLab SOC](https://github.com/nick1-creator/HomeLab-SOC)
+Home SOC / SIEM project using Wazuh, endpoint telemetry, custom detections, threat hunting and incident analysis.
+
+## 💻 Skills
+
+`Linux` `Networking` `Docker` `Windows Server` `Active Directory` `Wazuh` `Cybersecurity` `Python` `Git`
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/nick-moyseev-105838416/)
