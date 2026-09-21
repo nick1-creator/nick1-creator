@@ -1,6 +1,7 @@
 # Hi, I'm Nick 👋
 
 Junior System Administration & Cybersecurity enthusiast focused on hands-on learning, infrastructure, networking, Linux and defensive security.
+
 ## 🛠️ What I'm Working On
 
 - Building and maintaining a secure self-hosted HomeLab
@@ -15,6 +16,9 @@ Secure self-hosted infrastructure with Docker, monitoring, encrypted backups, re
 
 ### 🛡️ [HomeLab SOC](https://github.com/nick1-creator/HomeLab-SOC)
 Home SOC / SIEM project using Wazuh, endpoint telemetry, custom detections, threat hunting and incident analysis.
+
+### ⚙️ [PowerShell Administration Tools](https://github.com/nick1-creator/PowerShell-Administration-Tools)
+PowerShell administration tools for Active Directory, Group Policy and bulk user provisioning, built for hands-on Windows Server lab practice.
 
 ## 💻 Skills
 
